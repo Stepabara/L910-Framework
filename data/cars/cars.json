@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "model": "Volkswagen Golf",
+    "price": 14500,
+    "inStock": true,
+    "arrivedAt": "2025-10-15T14:00:00Z",
+    "features": ["ABS", "ESP", "airbags"]
+  }
+]
